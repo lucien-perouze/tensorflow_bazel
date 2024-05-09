@@ -1,0 +1,9 @@
+cc_binary(
+    name = "tensorflow_bazel_main",
+    srcs = [
+        "main.cc",
+    ],
+    deps = [
+        "@org_tensorflow//tensorflow/core:tensorflow",
+    ],
+)

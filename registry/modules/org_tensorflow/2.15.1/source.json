@@ -1,0 +1,5 @@
+{
+  "url": "https://github.com/tensorflow/tensorflow/archive/refs/tags/v2.15.1.tar.gz",
+  "integrity": "sha256-82QW2DHwb+hm4UnHzXUtpBChEXiwH/ViDp8mVRHtV88=",
+  "strip_prefix": "tensorflow-2.15.1"
+}

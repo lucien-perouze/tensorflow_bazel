@@ -1,0 +1,8 @@
+{
+  "homepage": "https://github.com/tensorflow/tensorflow",
+  "repository": [
+    "github:tensorflow/tensorflow"
+  ],
+  "versions": ["2.15.1"],
+  "yanked_versions": {}
+}

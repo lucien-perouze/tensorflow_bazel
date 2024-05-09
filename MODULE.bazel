@@ -1,0 +1,11 @@
+module(
+    name = "tensorflow_bazel",
+    repo_name = "tensorflow_bazel",
+)
+
+bazel_dep(name = "org_tensorflow", version = "2.15.1")
+
+configure = use_extension(
+    "//:configure.bzl",
+    "configure",
+)
